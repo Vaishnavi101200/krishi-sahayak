@@ -1,0 +1,11 @@
+# Web Framework and API
+Flask==2.3.3
+python-dotenv==1.0.0
+
+# NLP and Translation
+googletrans==3.1.0a0
+langdetect==1.0.9
+
+# Utilities
+requests==2.31.0
+beautifulsoup4==4.12.2 
