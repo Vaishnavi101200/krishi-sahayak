@@ -57,7 +57,7 @@ python -m spacy download en_core_web_sm
 
 ## Project Structure
 
-rishi-sahayak/
+Krishi-sahayak/
 ├── src/
 │ ├── api/ # FastAPI application
 │ │ ├── main.py # API endpoints
