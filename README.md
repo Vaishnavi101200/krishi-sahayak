@@ -34,54 +34,77 @@ A multilingual web application that provides easy access to agricultural schemes
 ## Installation
 
 1. Clone the repository
-bash
-git clone https://github.com/yourusername/krishi-sahayak.git
-cd krishi-sahayak
 
+```sh
+git clone https://github.com/Vaishnavi101200/krishi-sahayak.git
+cd krishi-sahayak
+```
 
 2. Create and activate virtual environment
-bash
+
+```sh
 python -m venv venv
 source venv/bin/activate
+```
 
 
 3. Install dependencies
-bash
-pip install -r requirements.txt
 
+```sh
+pip install -r requirements.txt
+```
 
 4. Download spaCy model
-bash
-python -m spacy download en_core_web_sm
 
+```sh
+python -m spacy download en_core_web_sm
+```
 
 ## Project Structure
 
 Krishi-sahayak/
+
 ├── src/
+
 │ ├── api/ # FastAPI application
+
 │ │ ├── main.py # API endpoints
+
 │ │ ├── models.py # Data models
+
 │ │ └── service.py # Business logic
+
 │ ├── frontend/ # Web interface
+
 │ │ ├── static/ # CSS files
+
 │ │ └── templates/ # HTML templates
+
 │ ├── processors/ # PDF processing
+
 │ ├── scrapers/ # Web scraping
+
 │ ├── translators/ # Translation services
+
 │ └── utils/ # Utility functions
+
 ├── data/
+
 │ ├── raw_pdfs/ # Downloaded PDFs
+
 │ ├── processed_pdfs/ # Extracted information
+
 │ └── translated_schemes/ # Translated data
+
 └── config.py # Configuration
 
 ## Usage
 
 1. Start the application
-bash
-python run_api.py
 
+```sh
+python run_api.py
+```
 
 2. Open your browser and navigate to `http://localhost:8000`
 
