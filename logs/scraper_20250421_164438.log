@@ -1,0 +1,26 @@
+2025-04-21 16:44:38,757 - pdf_processor - INFO - Processing AIF_Guidelines_English_12Jun24.pdf
+2025-04-21 16:44:38,995 - pdf_processor - INFO - Successfully extracted text from AIF_Guidelines_English_12Jun24.pdf
+2025-04-21 16:44:39,000 - pdf_processor - INFO - Processing Revised_guidelinesATMA_2025.pdf
+2025-04-21 16:44:41,154 - pdf_processor - INFO - Successfully extracted text from Revised_guidelinesATMA_2025.pdf
+2025-04-21 16:44:41,196 - pdf_processor - INFO - Processing Agmarknet_Guidelines.pdf
+2025-04-21 16:44:42,039 - pdf_processor - INFO - Successfully extracted text from Agmarknet_Guidelines.pdf
+2025-04-21 16:44:42,089 - pdf_processor - INFO - Processing midh_Guidelines.pdf
+2025-04-21 16:44:42,390 - pdf_processor - INFO - Successfully extracted text from midh_Guidelines.pdf
+2025-04-21 16:44:42,425 - pdf_processor - INFO - Processing Pesticides_Registration.pdf
+2025-04-21 16:44:43,363 - pdf_processor - INFO - Successfully extracted text from Pesticides_Registration.pdf
+2025-04-21 16:44:43,366 - pdf_processor - INFO - Processing Quarantine_Guidelinespdf.pdf
+2025-04-21 16:44:43,533 - pdf_processor - INFO - Successfully extracted text from Quarantine_Guidelinespdf.pdf
+2025-04-21 16:44:43,538 - pdf_processor - INFO - Processing Guideline_DBTinAgriculture.pdf
+2025-04-21 16:44:43,643 - pdf_processor - INFO - Successfully extracted text from Guideline_DBTinAgriculture.pdf
+2025-04-21 16:44:43,645 - pdf_processor - INFO - Processing Guidelines_PMKSY.pdf
+2025-04-21 16:44:44,111 - pdf_processor - INFO - Successfully extracted text from Guidelines_PMKSY.pdf
+2025-04-21 16:44:44,132 - pdf_processor - INFO - Processing Jaivik_Kheti_Guidelines.pdf
+2025-04-21 16:44:45,053 - pdf_processor - INFO - Successfully extracted text from Jaivik_Kheti_Guidelines.pdf
+2025-04-21 16:44:45,083 - pdf_processor - INFO - Processing Enamguidelines.pdf
+2025-04-21 16:44:45,350 - pdf_processor - INFO - Successfully extracted text from Enamguidelines.pdf
+2025-04-21 16:44:45,356 - pdf_processor - INFO - Processing Guidelines_Soil%20Health%20Card.pdf
+2025-04-21 16:44:45,359 - pdf_processor - INFO - Successfully extracted text from Guidelines_Soil%20Health%20Card.pdf
+2025-04-21 16:44:45,359 - pdf_processor - INFO - Processing PMFBY_Guidelines.pdf
+2025-04-21 16:44:47,172 - pdf_processor - INFO - Successfully extracted text from PMFBY_Guidelines.pdf
+2025-04-21 16:44:47,226 - pdf_processor - INFO - Processing Certificates_of_Agriculture_And_Farmers_Welfare.pdf
+2025-04-21 16:44:47,228 - pdf_processor - INFO - Successfully extracted text from Certificates_of_Agriculture_And_Farmers_Welfare.pdf

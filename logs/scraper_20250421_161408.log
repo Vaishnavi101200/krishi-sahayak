@@ -1,0 +1,8 @@
+2025-04-21 16:14:08,212 - test - INFO - Testing setup components...
+2025-04-21 16:14:08,212 - test - ERROR - ✗ Directory missing: data/raw_pdfs
+2025-04-21 16:14:08,213 - test - ERROR - ✗ Directory missing: data/processed_pdfs
+2025-04-21 16:14:08,213 - test - INFO - ✓ Directory exists: logs
+2025-04-21 16:14:08,213 - test - INFO - ✓ Directory exists: src/scrapers
+2025-04-21 16:14:08,213 - test - INFO - ✓ Directory exists: src/utils
+2025-04-21 16:14:08,985 - test - INFO - ✓ spaCy model loaded successfully
+2025-04-21 16:14:08,986 - test - INFO - Setup verification completed!

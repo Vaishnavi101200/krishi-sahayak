@@ -1,0 +1,127 @@
+{
+    "central": {
+        "central_scheme_01": {
+            "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+            "scheme_level": "central",
+            "description": "Provides income support to all landholding farmer families to supplement their financial needs for procuring various inputs related to agriculture and allied activities.",
+            "eligibility": "All landholding farmers' families, subject to certain exclusion criteria.​",
+            "benefits": "₹6,000 per year, payable in three equal installments of ₹2,000 every four months, directly into the beneficiaries' bank accounts.",
+            "application_process": "Farmers can apply through the official PM-KISAN portal or visit the nearest Common Service Centers (CSCs) for assistance.",
+            "deadline": "Ongoing; no specific deadline mentioned.",
+            "source_link": "https://agriwelfare.gov.in/en/FarmersWelDiv?utm_source=chatgpt.com",
+            "category": "Direct Benefit Transfer (DBT)/Income Support."
+        },
+        "central_scheme_02": {
+            "scheme_name": "Pradhan Mantri Kisan Maandhan Yojana (PM-KMY)",
+            "scheme_level": "central",
+            "description": "A voluntary and contributory pension scheme for small and marginal farmers to ensure social security in their old age.",
+            "eligibility": "Small and marginal farmers aged between 18 to 40 years, owning cultivable land up to 2 hectares.",
+            "benefits": "Assured pension of ₹3,000 per month after attaining the age of 60 years.",
+            "application_process": "Enrollment through Common Service Centers (CSCs) with a nominal registration fee",
+            "deadline": "Ongoing; no specific deadline mentioned.​",
+            "source_link": "https://agriwelfare.gov.in/en/FarmersWelDiv?utm_source=chatgpt.com",
+            "category": "Pension/Social Security"
+        },
+        "central_scheme_03": {
+            "scheme_name": "Agricultural Technology Management Agency (ATMA)",
+            "scheme_level": "central",
+            "description": "Aims to decentralize decision-making to the district level for better planning and implementation of agricultural extension programs.",
+            "eligibility": "All farmers and stakeholders involved in agriculture and allied sectors.",
+            "benefits": "Capacity building, training, and exposure visits for farmers to adopt best practices.",
+            "application_process": "Contact the respective District Agricultural Offices for enrollment and participation",
+            "deadline": "Ongoing; varies based on specific programs and trainings.",
+            "source_link": "https://agriwelfare.gov.in/Documents/121233187_rapfinaldraft%20%281%29_repaired.pdf?utm_source=chatgpt.com",
+            "category": "Training/Extension Services."
+        },
+        "central_scheme_04": {
+            "scheme_name": "AGMARKNET",
+            "scheme_level": "central",
+            "description": "A nationwide information network for the speedy collection and dissemination of market information for the benefit of farmers.",
+            "eligibility": "All farmers, traders, and other stakeholders in the agricultural marketing sector.",
+            "benefits": "Real-time market prices, commodity arrivals, and other related information to help farmers make informed decisions.",
+            "application_process": "Access the AGMARKNET portal for information; no formal application required.",
+            "deadline": "Not applicable",
+            "source_link": "https://agriwelfare.gov.in/Documents/Agmarknet_Guidelines.pdf?utm_source=chatgpt.com",
+            "category": "Market Information Services."
+        },
+        "central_scheme_05": {
+            "scheme_name": "Mission for Integrated Development of Horticulture (MIDH)",
+            "scheme_level": "central",
+            "description": "Promotes holistic growth of the horticulture sector, including fruits, vegetables, root and tuber crops, mushrooms, spices, flowers, aromatic plants, coconut, cashew, cocoa, and bamboo.",
+            "eligibility": "All farmers, entrepreneurs, and stakeholders involved in horticulture.",
+            "benefits": "Financial assistance for setting up nurseries, area expansion, post-harvest management, and marketing infrastructure.",
+            "application_process": "Submit proposals through State Horticulture Missions or respective State Agricultural Departments.",
+            "deadline": "Varies based on specific components and state-level implementations.",
+            "source_link": "https://agriwelfare.gov.in/Documents/DFI%20Vol-8C.pdf?utm_source=chatgpt.com",
+            "category": "Subsidies/Infrastructure Development"
+        },
+        "central_scheme_06": {
+            "scheme_name": "Online Pesticide Registration",
+            "scheme_level": "central",
+            "description": "Facilitates the online registration of pesticides to streamline the process and ensure timely approvals.",
+            "eligibility": "Manufacturers, importers, and marketers of pesticides.​",
+            "benefits": "Simplified and transparent registration process, reducing time and paperwork.​",
+            "application_process": "Apply through the official portal designated for pesticide registration.​",
+            "deadline": "Ongoing; as per regulatory requirements.​",
+            "source_link": "https://agriwelfare.gov.in/Documents/guidlines-of-SMPPQ.pdf?utm_source=chatgpt.com",
+            "category": "Regulatory Services"
+        },
+        "central_scheme_07": {
+            "scheme_name": "Plant Quarantine Clearance",
+            "scheme_level": "central",
+            "description": "Ensures the prevention of the introduction and spread of exotic pests and diseases by regulating the import of agricultural commodities.​",
+            "eligibility": "Importers and exporters of agricultural commodities.​",
+            "benefits": "Inspection and certification services to facilitate safe trade.",
+            "application_process": "Submit applications through the Plant Quarantine Information System (PQIS) portal.​",
+            "deadline": "Ongoing; as per trade requirements.",
+            "source_link": "https://pqms.cgg.gov.in/pqms-angular/home",
+            "category": "Agricultural Import/Export Regulations / Certification Scheme"
+        }
+    },
+    "state": {
+        "Maharashtra_Govt._01": {
+            "scheme_name": "MahaDBT Farmer Scheme (महाडीबीटी शेतकरी योजना)",
+            "scheme_level": "Maharashtra Govt.",
+            "description": "A flagship initiative providing subsidies to farmers for purchasing modern agricultural machinery and equipment",
+            "eligibility": "Must be a resident of Maharashtra.\nShould be a registered farmer.\nSC/ST farmers are eligible for higher subsidies",
+            "benefits": "General category farmers: 40% subsidy on machinery purchases.\nSC/ST farmers: 50% subsidy.\nAccess to training programs for effective machinery use.​",
+            "application_process": "1) Visit the MahaDBT portal.\n2)Register and log in.\n3)Fill out the application form and upload required documents.\n4)Submit the application and track its status online.​",
+            "deadline": "Ongoing; applications accepted throughout the year.​",
+            "source_link": "mahadbt.maharashtra.gov.in",
+            "category": "Subsidies / Agricultural Mechanization.​"
+        },
+        "Maharashtra_Govt._02": {
+            "scheme_name": "Birsa Munda Krishi Kranti Yojana (बिरसा मुंडा कृषी क्रांती योजना)",
+            "scheme_level": "Maharashtra Govt.",
+            "description": "Aimed at enhancing irrigation facilities and agricultural productivity among tribal farmers.​",
+            "eligibility": "Tribal farmers residing in Maharashtra (excluding Mumbai, Sindhudurg, Ratnagiri, Satara, Sangli, and Kolhapur districts).​",
+            "benefits": "1) New well construction: ₹2.5 lakh.\n2) Well repairs: ₹50,000.\n3) Boring: ₹20,000.\n4) Pump sets: ₹20,000.\n5) Electric connections: ₹10,000.\n6) Plastic lining for farm ponds: ₹1 lakh.\n7) Drip irrigation systems: ₹50,000.\n8) Sprinkler systems: ₹25,000.\n9) PVC pipes: ₹30,000.\n10) Kitchen gardens: ₹500.​",
+            "application_process": "1) Access the scheme details on the MahaDBT portal.\n2) Register and complete the application form.\n3) Upload necessary documents and submit the application.",
+            "deadline": "Ongoing; applications accepted throughout the year.",
+            "source_link": "https://mahadbt.maharashtra.gov.in/Farmer/SchemeData/SchemeData?str=E9DDFA703C38E51ACA98B76653871714",
+            "category": "Subsidies / Irrigation Development."
+        },
+        "Maharashtra_Govt._03": {
+            "scheme_name": "State Agriculture Mechanization Scheme (राज्य कृषि यंत्रीकरण योजना)",
+            "scheme_level": "Maharashtra Govt.",
+            "description": "Aims to promote the use of modern agricultural machinery among farmers to enhance productivity and reduce labor dependency.​",
+            "eligibility": "- Farmers residing in Maharashtra.\n- Possession of necessary land documents (7/12 extract, 8A form).\n- SC/ST farmers need to provide caste and income certificates​",
+            "benefits": "Subsidies for purchasing agricultural equipment such as:\n1) Tractors\n2) Power tillers\n3) Seed drills\n4) Rotavators\n5) Threshers\n6) Sprayers\n7) Other mechanized farming tools\nSubsidy percentage varies:\n1) General category: ~40–50%\n2) SC/ST/OBC/small & marginal farmers: ~50–70%​",
+            "application_process": "1) Visit the MahaDBT portal.\n2) Register and log in using Aadhaar-linked mobile.\n3) Fill out the application form under “State Agriculture Mechanization Scheme.”\n4) Upload necessary documents: land records, identity proof, caste/income certificates (if applicable).\n5) Submit and track application status online.",
+            "deadline": "Ongoing – applications are accepted throughout the year, depending on budget availability.",
+            "source_link": "https://mahadbt.maharashtra.gov.in/Farmer/SchemeData/SchemeData?str=E9DDFA703C38E51A147B39AD4D6A9082",
+            "category": "Agricultural Mechanization / Subsidy Scheme"
+        },
+        "Maharashtra_Govt._04": {
+            "scheme_name": "Per Drop More Crop (Micro-irrigation Component)",
+            "scheme_level": "Maharashtra Govt.",
+            "description": "Aims to enhance water use efficiency in agriculture by promoting micro-irrigation techniques like drip and sprinkler systems.​",
+            "eligibility": "- Farmers in Maharashtra with cultivable land.\n- Priority to small and marginal farmers.​​",
+            "benefits": "- Subsidy on installation of micro-irrigation systems.\n- Percentage of subsidy varies based on farmer category and area.​",
+            "application_process": "1) Register on the MahaDBT portal.\n2) Fill out the application form for the scheme.\n3) Upload required documents and submit the application.",
+            "deadline": "Ongoing; applications accepted throughout the year.",
+            "source_link": "https://pdmc.da.gov.in/",
+            "category": "Subsidies / Micro-irrigation."
+        }
+    }
+}

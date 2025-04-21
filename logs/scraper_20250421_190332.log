@@ -1,0 +1,2 @@
+2025-04-21 19:03:32,661 - translator - INFO - Translating schemes to hindi
+2025-04-21 19:07:26,490 - translator - ERROR - Translation attempt 1 failed: _ssl.c:1130: The handshake operation timed out
